@@ -32,11 +32,11 @@
 
 | № | Система | Что автоматизировано | Ключевые технологии |
 |---:|---|---|---|
-| 01 | [StudioCRM](https://artyomliske.github.io/#case-studio) | Бронь, оплаты, производство, финансы и Telegram-бот | Python · FastAPI · PostgreSQL · Redis · aiogram |
-| 02 | [Chip House CRM](https://artyomliske.github.io/#case-chcrm) | Турнирный процесс, рассадка, табло, рейтинг и взносы | TypeScript · NestJS · React · Prisma · Socket.IO |
+| 01 | [StudioCRM](https://github.com/artyomliske/studio-crm-case) | Бронь, оплаты, производство, финансы и Telegram-бот | Python · FastAPI · PostgreSQL · Redis · aiogram |
+| 02 | [Chip House CRM](https://github.com/artyomliske/chip-house-crm-case) | Турнирный процесс, рассадка, табло, рейтинг и взносы | TypeScript · NestJS · React · Prisma · Socket.IO |
 | 03 | [Chip House Club](https://artyomliske.github.io/#case-chclub) | PWA игрока: рейтинг, достижения и запись на турнир | TypeScript · React · Vite · Tailwind CSS · PWA |
 | 04 | [Рублёвские сказки](https://artyomliske.github.io/#case-theatre) | Сайт, билетный сценарий и процессы театра | Node.js · Express · Prisma |
-| 05 | [Калькулятор смет](https://artyomliske.github.io/#case-estimate) | Расчёт работ, редактор смет, экспорт и аналитика | TypeScript · React · Express · Excel/XLSX |
+| 05 | [Калькулятор смет](https://github.com/artyomliske/estimate-calculator-case) | Расчёт работ, редактор смет, экспорт и аналитика | TypeScript · React · Express · Excel/XLSX |
 | 06 | [SMM-платформа](https://artyomliske.github.io/#case-smm) | Создание, согласование и публикация контента через Telegram | Python · FastAPI · aiogram · OpenAI API · PostgreSQL |
 
 ## Инженерный подход
