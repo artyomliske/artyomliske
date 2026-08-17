@@ -37,6 +37,12 @@
 ![Pytest](https://img.shields.io/badge/pytest-0D1214?style=flat-square&logo=pytest&logoColor=58A79C)
 ![Vitest](https://img.shields.io/badge/Vitest-0D1214?style=flat-square&logo=vitest&logoColor=E4A244)
 
+## GitHub at a glance
+
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=artyomliske&show_icons=true&hide_rank=true&locale=en&include_all_commits=true&title_color=E4A244&text_color=E6EDF3&icon_color=58A79C&bg_color=0D1214&border_color=24303A&border_radius=8&cache_seconds=86400)](https://github.com/stats-organization/github-stats-extended)
+
+[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=artyomliske&bg_color=0D1214&color=E6EDF3&line=58A79C&point=E4A244&area=true&area_color=58A79C&title_color=E4A244&hide_border=true&radius=8&days=31)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## What I build
 
 I turn operational workflows into observable, maintainable systems: bookings, payments, permissions, reporting, approvals, and customer-facing journeys. My work starts with the rules that make a business run and ends with software that makes those rules dependable.

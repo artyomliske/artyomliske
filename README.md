@@ -46,6 +46,12 @@
 - Закладываю ограничения базы данных, тесты, миграции и прозрачные состояния процессов.
 - Довожу продукт от бизнес-задачи до запуска в production.
 
+## GitHub в цифрах
+
+[![Статистика GitHub](https://github-stats-extended.vercel.app/api?username=artyomliske&show_icons=true&hide_rank=true&locale=ru&include_all_commits=true&title_color=E4A244&text_color=E6EDF3&icon_color=58A79C&bg_color=0D1214&border_color=24303A&border_radius=8&cache_seconds=86400)](https://github.com/stats-organization/github-stats-extended)
+
+[![График активности GitHub](https://github-readme-activity-graph.vercel.app/graph?username=artyomliske&bg_color=0D1214&color=E6EDF3&line=58A79C&point=E4A244&area=true&area_color=58A79C&title_color=E4A244&hide_border=true&radius=8&days=31)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## Что я создаю
 
 Я превращаю рабочие процессы в прозрачные и поддерживаемые системы: записи, оплаты, роли, отчётность, согласования и клиентские сценарии. Начинаю с правил, по которым работает бизнес, и довожу их до программного решения, которому можно доверять.
