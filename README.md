@@ -1,10 +1,10 @@
-# Artyom Liske
+# Артём Лиске
 
-> **Turning business processes into reliable software.**
+> **Превращаю бизнес-процессы в надёжное программное обеспечение.**
 >
-> Backend and full-stack engineer building CRMs, Telegram bots, customer portals, and internal tools — from business rules to production.
+> Backend и full-stack инженер: CRM, Telegram-боты, личные кабинеты и внутренние сервисы — от бизнес-правил до боевого запуска.
 
-[Русская версия](README.ru.md) · [Portfolio](https://artyomliske.github.io/?lang=en) · [Telegram](https://t.me/artyomliske) · [Email](mailto:artyomliske@gmail.com)
+[English version](README.en.md) · [Портфолио](https://artyomliske.github.io/?lang=ru) · [Telegram](https://t.me/artyomliske) · [Email](mailto:artyomliske@gmail.com)
 
 ![Python](https://img.shields.io/badge/Python-0D1214?style=flat-square&logo=python&logoColor=E4A244)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D1214?style=flat-square&logo=fastapi&logoColor=58A79C)
@@ -13,61 +13,61 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1214?style=flat-square&logo=postgresql&logoColor=E4A244)
 ![Docker](https://img.shields.io/badge/Docker-0D1214?style=flat-square&logo=docker&logoColor=58A79C)
 
-## What I build
+## Что я создаю
 
-I turn operational workflows into observable, maintainable systems: bookings, payments, permissions, reporting, approvals, and customer-facing journeys. My work starts with the rules that make a business run and ends with software that makes those rules dependable.
+Я превращаю рабочие процессы в прозрачные и поддерживаемые системы: записи, оплаты, роли, отчётность, согласования и клиентские сценарии. Начинаю с правил, по которым работает бизнес, и довожу их до программного решения, которому можно доверять.
 
-| Focus | Typical outcomes |
+| Направление | Результат |
 |---|---|
-| **Business automation** | CRMs, admin panels, approval flows, Telegram bots |
-| **Reliable backend systems** | Clear domain rules, REST APIs, background jobs, audit-friendly state changes |
-| **Customer experiences** | PWAs, portals, registration flows, booking and payment journeys |
-| **Production delivery** | Tests, migrations, Docker Compose, CI, monitoring-ready architecture |
+| **Автоматизация бизнеса** | CRM, административные панели, цепочки согласований, Telegram-боты |
+| **Надёжный backend** | Доменные правила, REST API, фоновые задачи, понятные изменения состояний |
+| **Клиентские продукты** | PWA, личные кабинеты, регистрация, запись и оплата |
+| **Запуск в production** | Тесты, миграции, Docker Compose, CI и архитектура, готовая к наблюдаемости |
 
-## Featured work
+## Избранный проект
 
 ### [Booking Rules Demo](https://github.com/artyomliske/booking-rules-demo)
 
-A standalone FastAPI and PostgreSQL implementation of conflict-safe resource booking. It demonstrates domain tests, API tests, Docker Compose, GitHub Actions CI, and a PostgreSQL exclusion constraint that makes overlapping bookings impossible at the database level.
+Самостоятельная реализация безопасного бронирования ресурсов на FastAPI и PostgreSQL. В проекте есть тесты доменной логики и API, Docker Compose, CI через GitHub Actions и ограничение PostgreSQL, которое не позволяет создать пересекающиеся бронирования на уровне базы данных.
 
-### Selected systems
+## Избранные системы
 
-| Project | Problem solved | Stack |
+| Проект | Что автоматизировано | Стек |
 |---|---|---|
-| [StudioCRM](https://github.com/artyomliske/studio-crm-case) | Bookings, payments, production workflow, and Telegram automation for a content studio | Python · FastAPI · PostgreSQL · Redis · aiogram |
-| [Chip House CRM](https://github.com/artyomliske/chip-house-crm-case) | Tournament operations, seating, live venue display, and season ranking | TypeScript · NestJS · React · Prisma · Socket.IO |
-| [Chip House Club](https://github.com/artyomliske/chip-house-club-case) | Player-facing PWA for rankings, achievements, and tournament registration | TypeScript · React · Vite · Tailwind CSS · PWA |
-| [Rublyovskie Skazki](https://github.com/artyomliske/rublevskie-skazki-case) | Public website, ticketing journey, and theatre operations | Node.js · Express · Prisma |
-| [Estimate Calculator](https://github.com/artyomliske/estimate-calculator-case) | Estimating workflow, document export, and operational analytics | TypeScript · React · Express · XLSX |
-| [SMM Platform](https://github.com/artyomliske/smm-platform-case) | Content drafting, Telegram approvals, and publication readiness | Python · FastAPI · aiogram · OpenAI API · PostgreSQL |
+| [StudioCRM](https://github.com/artyomliske/studio-crm-case) | Записи, оплаты, производство и Telegram-автоматизация контент-студии | Python · FastAPI · PostgreSQL · Redis · aiogram |
+| [Chip House CRM](https://github.com/artyomliske/chip-house-crm-case) | Турниры, рассадка, живое табло и сезонный рейтинг | TypeScript · NestJS · React · Prisma · Socket.IO |
+| [Chip House Club](https://github.com/artyomliske/chip-house-club-case) | PWA игрока: рейтинг, достижения и регистрация на турнир | TypeScript · React · Vite · Tailwind CSS · PWA |
+| [Рублёвские сказки](https://github.com/artyomliske/rublevskie-skazki-case) | Сайт, билетный сценарий и внутренние процессы театра | Node.js · Express · Prisma |
+| [Калькулятор смет](https://github.com/artyomliske/estimate-calculator-case) | Расчёт работ, редактор смет, экспорт документов и аналитика | TypeScript · React · Express · XLSX |
+| [SMM-платформа](https://github.com/artyomliske/smm-platform-case) | Создание, согласование и подготовка публикаций через Telegram | Python · FastAPI · aiogram · OpenAI API · PostgreSQL |
 
-## Engineering approach
+## Инженерный подход
 
 ```text
-DISCOVER THE PROCESS  →  DEFINE THE RULES  →  SHIP WORKING INCREMENTS
-          →  TEST CRITICAL PATHS  →  LAUNCH, OBSERVE, IMPROVE
+РАЗОБРАТЬ ПРОЦЕСС  →  ЗАФИКСИРОВАТЬ ПРАВИЛА  →  СОБРАТЬ РАБОЧИЕ ЭТАПЫ
+       →  ПРОВЕРИТЬ КРИТИЧНУЮ ЛОГИКУ  →  ЗАПУСТИТЬ, НАБЛЮДАТЬ, УЛУЧШАТЬ
 ```
 
-I care about the parts of software that prevent expensive mistakes: booking conflicts, pricing, deposits, roles, permissions, and financial operations. I encode those rules in database constraints, migrations, validation, background jobs, tests, and explicit state transitions instead of leaving them in somebody’s memory.
+Я уделяю особое внимание тому, что предотвращает дорогие ошибки: пересечениям записей, ценам, предоплатам, ролям, правам доступа и денежным операциям. Такие правила должны быть закреплены ограничениями базы данных, миграциями, валидацией, фоновыми задачами, тестами и явными переходами состояний, а не храниться в памяти сотрудника.
 
-## Proven toolkit
+## Стек, подтверждённый проектами
 
-| Area | Technologies |
+| Направление | Технологии |
 |---|---|
-| Languages | Python · TypeScript · JavaScript · SQL · HTML · CSS |
-| Backend & APIs | FastAPI · NestJS · Express · Uvicorn · Pydantic · REST · OpenAPI · WebSocket |
+| Языки | Python · TypeScript · JavaScript · SQL · HTML · CSS |
+| Backend и API | FastAPI · NestJS · Express · Uvicorn · Pydantic · REST · OpenAPI · WebSocket |
 | Frontend | React · Vite · Tailwind CSS · React Router · TanStack Query · PWA |
-| Data | PostgreSQL · Redis · SQLAlchemy Async · Alembic · Prisma · asyncpg |
-| Integrations | Telegram / aiogram · Socket.IO · S3 / MinIO · OpenAI API · HTTPX |
-| Jobs & delivery | ARQ · APScheduler · Docker Compose · GitHub Actions |
-| Quality | pytest · pytest-asyncio · Vitest · Testing Library |
+| Данные | PostgreSQL · Redis · SQLAlchemy Async · Alembic · Prisma · asyncpg |
+| Интеграции | Telegram / aiogram · Socket.IO · S3 / MinIO · OpenAI API · HTTPX |
+| Очереди и доставка | ARQ · APScheduler · Docker Compose · GitHub Actions |
+| Качество | pytest · pytest-asyncio · Vitest · Testing Library |
 
-## Let’s build something useful
+## Давайте сделаем процесс удобнее
 
-If you are turning a manual workflow into a product, need a dependable internal system, or want to make an existing process easier to operate, feel free to reach out.
+Если вы превращаете ручной workflow в продукт, строите внутреннюю систему или хотите сделать существующий процесс надёжнее и понятнее, буду рад обсудить задачу.
 
-[Portfolio in English →](https://artyomliske.github.io/?lang=en) · [Написать в Telegram →](https://t.me/artyomliske) · [Email →](mailto:artyomliske@gmail.com)
+[Портфолио →](https://artyomliske.github.io/?lang=ru) · [Написать в Telegram →](https://t.me/artyomliske) · [Email →](mailto:artyomliske@gmail.com)
 
 ---
 
-<sub>Focused on practical automation, explicit business rules, and software that survives contact with real operations.</sub>
+<sub>Практичная автоматизация, явные бизнес-правила и software, который выдерживает встречу с реальными процессами.</sub>
