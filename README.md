@@ -53,7 +53,7 @@
 > Обновлено автоматически: **17.08.2026**
 
 - Публичных проектов: **11**
-- Последний обновлённый проект: [AppTimer](https://github.com/artyomliske/AppTimer) — Публичный технический проект
+- Последний обновлённый проект: [AppTimer](https://github.com/artyomliske/AppTimer) — Local-first macOS time tracker for manual multi-project work logs, reports, and focus controls.
 <!-- PROFILE-DATA:END -->
 
 ## Типовые бизнес-задачи
