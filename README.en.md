@@ -6,12 +6,36 @@
 
 [Русская версия](README.md) · [Portfolio](https://artyomliske.github.io/?lang=en) · [Telegram](https://t.me/artyomliske) · [Email](mailto:artyomliske@gmail.com)
 
+## Tech Stack
+
+**Backend & APIs**
+
 ![Python](https://img.shields.io/badge/Python-0D1214?style=flat-square&logo=python&logoColor=E4A244)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D1214?style=flat-square&logo=fastapi&logoColor=58A79C)
+![NestJS](https://img.shields.io/badge/NestJS-0D1214?style=flat-square&logo=nestjs&logoColor=E4A244)
+![Express](https://img.shields.io/badge/Express-0D1214?style=flat-square&logo=express&logoColor=E4A244)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1214?style=flat-square&logo=typescript&logoColor=58A79C)
+
+**Frontend & applications**
+
 ![React](https://img.shields.io/badge/React-0D1214?style=flat-square&logo=react&logoColor=58A79C)
+![Vite](https://img.shields.io/badge/Vite-0D1214?style=flat-square&logo=vite&logoColor=E4A244)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1214?style=flat-square&logo=tailwindcss&logoColor=58A79C)
+![PWA](https://img.shields.io/badge/PWA-0D1214?style=flat-square&logo=pwa&logoColor=E4A244)
+
+**Data & infrastructure**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1214?style=flat-square&logo=postgresql&logoColor=E4A244)
+![Redis](https://img.shields.io/badge/Redis-0D1214?style=flat-square&logo=redis&logoColor=58A79C)
 ![Docker](https://img.shields.io/badge/Docker-0D1214?style=flat-square&logo=docker&logoColor=58A79C)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1214?style=flat-square&logo=githubactions&logoColor=E4A244)
+
+**Integrations & quality**
+
+![Telegram](https://img.shields.io/badge/Telegram-0D1214?style=flat-square&logo=telegram&logoColor=58A79C)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-0D1214?style=flat-square&logo=openai&logoColor=E4A244)
+![Pytest](https://img.shields.io/badge/pytest-0D1214?style=flat-square&logo=pytest&logoColor=58A79C)
+![Vitest](https://img.shields.io/badge/Vitest-0D1214?style=flat-square&logo=vitest&logoColor=E4A244)
 
 ## What I build
 
