@@ -26,6 +26,10 @@ I turn operational workflows into observable, reliable software: bookings, payme
 | Jobs & delivery | ARQ · APScheduler · Docker Compose · GitHub Actions |
 | Quality | pytest · pytest-asyncio · Vitest · Testing Library |
 
+## Open technical demo
+
+[**Booking Rules Demo**](https://github.com/artyomliske/booking-rules-demo) — a standalone FastAPI and PostgreSQL implementation of conflict-safe resource booking. It includes domain tests, API tests, Docker Compose, a PostgreSQL exclusion constraint, and GitHub Actions CI.
+
 ## Selected systems
 
 | Project | Business problem | Key technologies |
