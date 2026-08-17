@@ -22,6 +22,7 @@
 ![Vite](https://img.shields.io/badge/Vite-0D1214?style=flat-square&logo=vite&logoColor=E4A244)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1214?style=flat-square&logo=tailwindcss&logoColor=58A79C)
 ![PWA](https://img.shields.io/badge/PWA-0D1214?style=flat-square&logo=pwa&logoColor=E4A244)
+![Swift](https://img.shields.io/badge/Swift-0D1214?style=flat-square&logo=swift&logoColor=58A79C)
 
 **Data & infrastructure**
 
@@ -65,6 +66,13 @@ A standalone FastAPI and PostgreSQL implementation of conflict-safe resource boo
 | [Estimate Calculator](https://github.com/artyomliske/estimate-calculator-case) | Estimating workflow, document export, and operational analytics | TypeScript · React · Express · XLSX |
 | [SMM Platform](https://github.com/artyomliske/smm-platform-case) | Content drafting, Telegram approvals, and publication readiness | Python · FastAPI · aiogram · OpenAI API · PostgreSQL |
 
+### New engineering projects
+
+| Project | What it demonstrates | Stack |
+|---|---|---|
+| [Relayboard](https://github.com/artyomliske/relayboard) | An operator-grade webhook control plane: signed ingress, idempotency, traceable states, human approval, and protected replay | TypeScript · React · Express · MySQL · SSE |
+| [AppTimer](https://github.com/artyomliske/AppTimer) | A local-first macOS app for manual multi-project time tracking, reporting, and focus controls | Swift · SwiftUI · SwiftData · macOS |
+
 ## Engineering approach
 
 ```text
@@ -78,7 +86,7 @@ I care about the parts of software that prevent expensive mistakes: booking conf
 
 | Area | Technologies |
 |---|---|
-| Languages | Python · TypeScript · JavaScript · SQL · HTML · CSS |
+| Languages | Python · TypeScript · JavaScript · Swift · SQL · HTML · CSS |
 | Backend & APIs | FastAPI · NestJS · Express · Uvicorn · Pydantic · REST · OpenAPI · WebSocket |
 | Frontend | React · Vite · Tailwind CSS · React Router · TanStack Query · PWA |
 | Data | PostgreSQL · Redis · SQLAlchemy Async · Alembic · Prisma · asyncpg |

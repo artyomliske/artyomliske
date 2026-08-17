@@ -22,6 +22,7 @@
 ![Vite](https://img.shields.io/badge/Vite-0D1214?style=flat-square&logo=vite&logoColor=E4A244)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1214?style=flat-square&logo=tailwindcss&logoColor=58A79C)
 ![PWA](https://img.shields.io/badge/PWA-0D1214?style=flat-square&logo=pwa&logoColor=E4A244)
+![Swift](https://img.shields.io/badge/Swift-0D1214?style=flat-square&logo=swift&logoColor=58A79C)
 
 **Данные и инфраструктура**
 
@@ -51,7 +52,7 @@
 <!-- PROFILE-DATA:START -->
 > Обновлено автоматически: **17.08.2026**
 
-- Публичных проектов: **10**
+- Публичных проектов: **11**
 - Последний обновлённый проект: [AppTimer](https://github.com/artyomliske/AppTimer) — Публичный технический проект
 <!-- PROFILE-DATA:END -->
 
@@ -93,6 +94,13 @@
 | [Калькулятор смет](https://github.com/artyomliske/estimate-calculator-case) | Расчёт работ, редактор смет, экспорт документов и аналитика | TypeScript · React · Express · XLSX |
 | [SMM-платформа](https://github.com/artyomliske/smm-platform-case) | Создание, согласование и подготовка публикаций через Telegram | Python · FastAPI · aiogram · OpenAI API · PostgreSQL |
 
+## Новые инженерные проекты
+
+| Проект | Что демонстрирует | Стек |
+|---|---|---|
+| [Relayboard](https://github.com/artyomliske/relayboard) | Операторский control plane для вебхуков: подписи, идемпотентность, трассировка состояний, согласование и защищённый replay | TypeScript · React · Express · MySQL · SSE |
+| [AppTimer](https://github.com/artyomliske/AppTimer) | Local-first приложение macOS для ручного учёта времени по проектам, отчётности и контроля фокуса | Swift · SwiftUI · SwiftData · macOS |
+
 ## Инженерный подход
 
 ```text
@@ -113,7 +121,7 @@
 
 | Направление | Технологии |
 |---|---|
-| Языки | Python · TypeScript · JavaScript · SQL · HTML · CSS |
+| Языки | Python · TypeScript · JavaScript · Swift · SQL · HTML · CSS |
 | Backend и API | FastAPI · NestJS · Express · Uvicorn · Pydantic · REST · OpenAPI · WebSocket |
 | Frontend | React · Vite · Tailwind CSS · React Router · TanStack Query · PWA |
 | Данные | PostgreSQL · Redis · SQLAlchemy Async · Alembic · Prisma · asyncpg |
