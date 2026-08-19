@@ -50,10 +50,10 @@
 ## Сейчас в работе
 
 <!-- PROFILE-DATA:START -->
-> Обновлено автоматически: **18.08.2026**
+> Обновлено автоматически: **19.08.2026**
 
 - Публичных проектов: **12**
-- Последний обновлённый проект: [AppTimer](https://github.com/artyomliske/AppTimer) — Local-first macOS time tracker for manual multi-project work logs, reports, and focus controls.
+- Последний обновлённый проект: [homebrew-tap](https://github.com/artyomliske/homebrew-tap) — Homebrew casks for Artyom Liske macOS applications
 <!-- PROFILE-DATA:END -->
 
 ## Типовые бизнес-задачи
