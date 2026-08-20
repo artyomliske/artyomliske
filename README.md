@@ -50,7 +50,7 @@
 ## Сейчас в работе
 
 <!-- PROFILE-DATA:START -->
-> Обновлено автоматически: **19.08.2026**
+> Обновлено автоматически: **20.08.2026**
 
 - Публичных проектов: **12**
 - Последний обновлённый проект: [homebrew-tap](https://github.com/artyomliske/homebrew-tap) — Homebrew casks for Artyom Liske macOS applications
