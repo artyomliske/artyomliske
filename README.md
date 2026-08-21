@@ -4,7 +4,7 @@
 >
 > Backend и full-stack инженер: CRM, Telegram-боты, личные кабинеты и внутренние сервисы — от бизнес-правил до боевого запуска.
 
- [Портфолио](artyomliske.ru) · [English version](README.en.md) · [Telegram](https://t.me/artyomliske) · [Email](mailto:artyomliske@gmail.com)
+ [Портфолио](https://artyomliske.ru) · [English version](README.en.md) · [Telegram](https://t.me/artyomliske) · [Email](mailto:artyomliske@gmail.com)
 
 ## Tech Stack
 
