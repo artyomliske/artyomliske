@@ -133,7 +133,7 @@
 
 Подключаюсь к проектам, где нужно превратить ручной процесс в продукт, спроектировать надёжную внутреннюю систему или сделать существующий workflow понятнее и устойчивее. Могу начать с разбора процесса, ключевых правил и первого работающего этапа.
 
-[Портфолио →](https://artyomliske.github.io/?lang=ru) · [Написать в Telegram →](https://t.me/artyomliske) · [Email →](mailto:artyomliske@gmail.com)
+[Портфолио →](https://artyomliske.ru/) · [Написать в Telegram →](https://t.me/artyomliske) · [Email →](mailto:artyomliske@gmail.com)
 
 ---
 
