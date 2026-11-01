@@ -50,10 +50,10 @@
 ## Сейчас в работе
 
 <!-- PROFILE-DATA:START -->
-> Обновлено автоматически: **31.10.2026**
+> Обновлено автоматически: **01.11.2026**
 
 - Публичных проектов: **12**
-- Последний обновлённый проект: [relayboard](https://github.com/artyomliske/relayboard) — Operator-grade webhook event processing control plane with approvals, retries, replay, and audit trails.
+- Последний обновлённый проект: [chip-house-crm-case](https://github.com/artyomliske/chip-house-crm-case) — Poker club network CRM: tournaments, seating, dealer mode, cashier, Telegram player app, loyalty & passes, live venue screens.
 <!-- PROFILE-DATA:END -->
 
 ## Типовые бизнес-задачи
