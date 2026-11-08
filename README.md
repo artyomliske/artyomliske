@@ -50,7 +50,7 @@
 ## Сейчас в работе
 
 <!-- PROFILE-DATA:START -->
-> Обновлено автоматически: **07.11.2026**
+> Обновлено автоматически: **08.11.2026**
 
 - Публичных проектов: **12**
 - Последний обновлённый проект: [chip-house-crm-case](https://github.com/artyomliske/chip-house-crm-case) — Poker club network CRM: tournaments, seating, dealer mode, cashier, Telegram player app, loyalty & passes, live venue screens.
