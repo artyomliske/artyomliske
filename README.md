@@ -50,10 +50,10 @@
 ## Сейчас в работе
 
 <!-- PROFILE-DATA:START -->
-> Обновлено автоматически: **10.11.2026**
+> Обновлено автоматически: **11.11.2026**
 
-- Публичных проектов: **12**
-- Последний обновлённый проект: [chip-house-crm-case](https://github.com/artyomliske/chip-house-crm-case) — Poker club network CRM: tournaments, seating, dealer mode, cashier, Telegram player app, loyalty & passes, live venue screens.
+- Публичных проектов: **13**
+- Последний обновлённый проект: [fundament-master-deck](https://github.com/artyomliske/fundament-master-deck) — Публичный технический проект
 <!-- PROFILE-DATA:END -->
 
 ## Типовые бизнес-задачи
